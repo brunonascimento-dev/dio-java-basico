@@ -1,6 +1,8 @@
 public class MinhaClasse {
     public static void main (String [] args) {
 
+        // Práticas básicas de sintaxe em java.
+
         final String BR = "Brasil";
         double PI = 3.14;
         int ESTADOS_BRASILEIROS = 27;
